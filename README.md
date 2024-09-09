@@ -1,5 +1,7 @@
 This is a uservice project from Turing Research Team.
-<img src="https://github.com/ArminKardan/utrialv2/blob/master/turing.png?raw=true"/>
+
+<img src="./turing (1)_prev_ui.png"/>
+
 ## Getting Started
 
 First, run the development server:
