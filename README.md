@@ -21,4 +21,5 @@ You can start editing the page by modifying `components/Pages/index.tsx`. The pa
 <br/>
 <img src="./Screenshot 2024-09-09 175630.png" />
 <br/>
-Best regards.
+
+### Best regards :heart:
